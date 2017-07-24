@@ -2,6 +2,9 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+## Running locally
+Download the code. In the root folder, run 'npm install' to download the packages. Then run ng serve. Required angular-cli to run ng serve.
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
